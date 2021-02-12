@@ -53,5 +53,5 @@ def aoh_update(aoh, row, key, new_value)
     {:name => "Bruce Green", :occupation => "Fan of Mildred"}
   ]
 
-  assembled_aoh[1][:name] = "Joelle van Dyne (PGOAT)"
+  assembled_aoh[1][:name] = "Joelle van Dyne"
 end
